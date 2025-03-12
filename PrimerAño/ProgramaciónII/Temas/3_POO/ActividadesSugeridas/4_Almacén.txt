@@ -1,0 +1,14 @@
+Un almacén necesita gestionar su inventario de manera más eficiente. Te han pedido desarrollar un 
+programa en C++ que permita controlar los productos, asegurando que no se queden sin stock.
+El programa debe manejar 5 productos, donde cada uno tiene un código, nombre, precio, stock actual y 
+stock minimo. El dueño del almacén debe poder ingresar esta información para cada producto.
+Luego, el programa debe:
+
+1. Mostrar la lista de productos con sus detalles: nombre, stock actual, stock minimo y precio.
+2. Verificar si algún producto tiene un stock actual menor al stock mínimo e indicar que se necesita hacer un nuevo pedido.
+La información de los productos se almacenará en un arreglo de tamaño fijo y se utilizarán getters y setters para acceder a sus atributos.
+
+Ejemplo de salida:
+Código: 1000 | Producto: Azúcar | Stock actual: 10 | Stock mínimo: 20 | Precio: $0.80
+
+El producto Azúcar necesita un nuevo pedido.

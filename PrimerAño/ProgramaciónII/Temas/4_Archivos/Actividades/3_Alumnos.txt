@@ -1,0 +1,3 @@
+Actividad: Hacer un proyecto con un menú para agregar registros, listar registros (todos) y listar UN registro. 
+Listar UN registro (cuando se pide el ingreso de un legajo y se lo muestra). 
+Dividido como corresponde: cada clase con su .h y .cpp o todo junto.

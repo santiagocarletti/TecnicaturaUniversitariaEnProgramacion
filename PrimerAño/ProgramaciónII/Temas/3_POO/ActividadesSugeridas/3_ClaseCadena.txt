@@ -1,0 +1,1 @@
+Enunciado: Hacer una clase de nombre cadena para almacenar palabras que ajuste su tamaño a la cantidad de caracteres estrictamente necesarios

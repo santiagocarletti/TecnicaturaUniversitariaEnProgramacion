@@ -1,0 +1,11 @@
+Actividad 'Alumnos' encuentro 26/08/24 - POO / Diseño de clases
+
+https://www.youtube.com/watch?v=76tmYYC-yd4
+
+Cargar un vector de alumnos de 5 y luego. A) Dado un legajo, hacer una función que devuelva la posición del alumno con ese legajo en el vector. 
+Si no existe el legajo tiene que devolver -1.
+B) Dado un nombre que se ingresa por teclado, informar la cantidad de veces que ese nombre aparece en el vector de alumnos. 
+Opcional: Menú con Cargar alumnos, Buscar por legajo y contar nombres
+
+Resolución 01:21
+
