@@ -1,0 +1,1 @@
+Este proyecto grupal, fue desarrollado para la aprobación de la asignatura "Programación I"
